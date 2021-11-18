@@ -1,3 +1,7 @@
 bonjour
+
 modification 2
-preparation conflit branche main
+preparation conflit branche main (Résolu,j'ai supprimé les changement du au merge)
+
+
+
